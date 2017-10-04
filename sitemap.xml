@@ -43,6 +43,9 @@
 <loc>http://localhost:4000/projects/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/resume/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/assets/bower_components/html5shiv/MIT%20and%20GPL2%20licenses/</loc>
 </url>
 <url>
